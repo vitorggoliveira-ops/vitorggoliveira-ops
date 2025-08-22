@@ -30,9 +30,9 @@ Mexo com: HTML, CSS, JAVASCRIPT, JAVA e MySQL.
 
  <!-- Coloque aqui as imagens e gifs -->
 
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
+ 
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
+ 
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
