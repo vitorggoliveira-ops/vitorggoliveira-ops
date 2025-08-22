@@ -36,7 +36,7 @@ Mexo com: HTML, CSS, JAVASCRIPT, JAVA e MySQL.
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
+ 
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
 
